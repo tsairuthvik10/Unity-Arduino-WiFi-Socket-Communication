@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifi unity", "Assembly-CSharp.csproj", "{DF23133C-A4B8-0391-5296-E0BA838D208F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifi unity", "Assembly-CSharp-firstpass.csproj", "{F80650B7-141B-53C4-515E-EDF1C48E9A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wifi unity", "Assembly-CSharp-Editor.csproj", "{0B3AEC69-F5C9-C9BD-FDF1-10E08522301B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF23133C-A4B8-0391-5296-E0BA838D208F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23133C-A4B8-0391-5296-E0BA838D208F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23133C-A4B8-0391-5296-E0BA838D208F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23133C-A4B8-0391-5296-E0BA838D208F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80650B7-141B-53C4-515E-EDF1C48E9A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80650B7-141B-53C4-515E-EDF1C48E9A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80650B7-141B-53C4-515E-EDF1C48E9A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80650B7-141B-53C4-515E-EDF1C48E9A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3AEC69-F5C9-C9BD-FDF1-10E08522301B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3AEC69-F5C9-C9BD-FDF1-10E08522301B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3AEC69-F5C9-C9BD-FDF1-10E08522301B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3AEC69-F5C9-C9BD-FDF1-10E08522301B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
